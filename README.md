@@ -15,7 +15,7 @@ individual rental.
 
 |Directories|   |
 | -- | -- |
-| `BackEnd` | Consists of Classes that are used throughout the system |
+| `BackEnd` | Consists of Types that are used throughout the system (Accounts, Errors, Vehicles, Transactions, Rates) |
 | `UI` | Consists of the different UIs as well as services that speaks to the back end |
 
 ## Overall Structure 
